@@ -8,7 +8,7 @@
 > 
 4. Copy "DoTimerSW" into Wow-Directory\Interface\AddOns
 > 
-5. Restart Wow
+5. Restart WoW
 > 
 
 <div align="right">

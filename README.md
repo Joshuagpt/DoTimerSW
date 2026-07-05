@@ -10,3 +10,11 @@
 > 
 5. Restart Wow
 > 
+
+<div align="right">
+
+![Release](https://img.shields.io/github/v/release/username/repo)
+![Downloads](https://img.shields.io/github/downloads/username/repo/total)
+![Last Commit](https://img.shields.io/github/last-commit/username/repo)
+
+</div>

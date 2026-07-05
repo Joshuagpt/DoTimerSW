@@ -14,8 +14,6 @@
 <div align="right">
 
 ![Release](https://img.shields.io/github/v/release/Joshuagpt/DoTimerSW)
-![Downloads](https://img.shields.io/github/downloads/Joshuagpt/DoTimerSW/total)
-![Stars](https://img.shields.io/github/stars/Joshuagpt/DoTimerSW)
-![Last Commit](https://img.shields.io/github/last-commit/Joshuagpt/DoTimerSW)
+![Release Date](https://img.shields.io/github/release-date/Joshuagpt/DoTimerSW)
 
 </div>
